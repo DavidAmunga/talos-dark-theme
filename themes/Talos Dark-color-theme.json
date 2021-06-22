@@ -2,12 +2,12 @@
 	"name": "Talos Dark",
 	"type": "dark",
 "colors": {
-	"focusBorder": "#596171",
+	"focusBorder": "#20242F",
 	"foreground": "#707a8c",
 	"widget.shadow": "#141925",
 	"selection.background": "#33415efd",
 	"icon.foreground": "#707a8c",
-	"errorForeground": "#ff3333",
+	"errorForeground": "#EF4444",
 	"descriptionForeground": "#707a8c",
 	"textBlockQuote.background": "#232834",
 	"textLink.foreground": "#ffcc66",
@@ -25,7 +25,7 @@
 	"input.placeholderForeground": "#5f6878",
 	"inputOption.activeBorder": "#ffcc66",
 	"inputValidation.errorBackground": "#1f2430",
-	"inputValidation.errorBorder": "#ff3333",
+	"inputValidation.errorBorder": "#EF4444",
 	"inputValidation.infoBackground": "#1f2430",
 	"inputValidation.infoBorder": "#5ccfe6",
 	"inputValidation.warningBackground": "#1f2430",
@@ -51,7 +51,7 @@
 	"tree.indentGuidesStroke": "#707a8cb3",
 	"listFilterWidget.background": "#232834",
 	"listFilterWidget.outline": "#ffcc66",
-	"listFilterWidget.noMatchesOutline": "#ff3333",
+	"listFilterWidget.noMatchesOutline": "#EF4444",
 	"list.filterMatchBorder": "#ffcc66",
 	"list.filterMatchBackground": "#ffcc660d",
 	"activityBar.background": "#1f2430",
@@ -67,7 +67,7 @@
 	"sideBarSectionHeader.foreground": "#707a8c",
 	"sideBarSectionHeader.border": "#1f2430",
 	"editorGroup.border": "#191e2a",
-	"editorGroup.background": "#232834",
+	"editorGroup.emptyBackground": "#232834",
 	"editorGroupHeader.noTabsBackground": "#1f2430",
 	"editorGroupHeader.tabsBackground": "#1f2430",
 	"editorGroupHeader.tabsBorder": "#1f2430",
@@ -113,9 +113,9 @@
 	"editorOverviewRuler.modifiedForeground": "#77a8d999",
 	"editorOverviewRuler.addedForeground": "#a6cc7099",
 	"editorOverviewRuler.deletedForeground": "#f2798399",
-	"editorOverviewRuler.errorForeground": "#ff3333",
+	"editorOverviewRuler.errorForeground": "#EF4444",
 	"editorOverviewRuler.warningForeground": "#ffcc66",
-	"editorError.foreground": "#ff3333",
+	"editorError.foreground": "#EF4444",
 	"editorWarning.foreground": "#ffcc66",
 	"editorGutter.modifiedBackground": "#77a8d999",
 	"editorGutter.addedBackground": "#a6cc7099",
@@ -500,7 +500,7 @@
 			"invalid"
 		],
 		"settings": {
-			"foreground": "#ff3333"
+			"foreground": "#EF4444"
 		}
 	},
 	{
@@ -590,7 +590,7 @@
 			"message.error"
 		],
 		"settings": {
-			"foreground": "#ff3333"
+			"foreground": "#EF4444"
 		}
 	},
 	{
