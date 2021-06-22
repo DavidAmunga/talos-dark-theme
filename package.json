@@ -1,0 +1,21 @@
+{
+    "name": "talos-dark",
+    "displayName": "Talos Dark",
+    "description": "A Cool Gray Night Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Talos Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Talos Dark-color-theme.json"
+            }
+        ]
+    }
+}
