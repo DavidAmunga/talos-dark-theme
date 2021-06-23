@@ -1,8 +1,21 @@
 {
     "name": "talos-dark",
     "displayName": "Talos Dark",
-    "description": "A Cool Gray Night Theme",
-    "version": "0.0.1",
+    "description": "A Cool Dark Blue Editor Theme inspired by Ayu(Mirage) theme",
+    "version": "1.0.0",
+    "publisher": "damunga",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/DavidAmunga/talos-dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "damunga",
+        "davidamunga",
+        "vs-code"
+    ],
+    "icon": "assets/logo.png",
     "engines": {
         "vscode": "^1.57.0"
     },
