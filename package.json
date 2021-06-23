@@ -15,7 +15,7 @@
         "davidamunga",
         "vs-code"
     ],
-    "icon": "assets/logo.png",
+    "icon": "assets/logox128.png",
     "engines": {
         "vscode": "^1.57.0"
     },
