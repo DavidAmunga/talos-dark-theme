@@ -5,10 +5,15 @@
 
 <h1 align="center">Talos Dark Theme</h1>
 
-## Screenshots
+### Screenshots
 ---
 <img src="assets/screenshot.png">
 
-### Main Editor and Standard Icon Theme
+<br />
+<br />
+<br />
 
-
+### More Information
+---
+- <a href="https://marketplace.visualstudio.com/items?itemName=damunga.talos-dark">Visual Studio Marketplace</a>
+-  <a href="https://github.com/DavidAmunga/talos-dark-theme.git">Github Repository</a>
