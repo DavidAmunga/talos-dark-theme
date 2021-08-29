@@ -257,7 +257,7 @@
       "variable"
     ],
     "settings": {
-      "foreground": "#cbccc6"
+      "foreground": "#9ee8f7"
     }
   },
   {
@@ -303,7 +303,7 @@
       "keyword.operator"
     ],
     "settings": {
-      "foreground": "#f29e74"
+      "foreground": "#cf8661e3"
     }
   },
   {
@@ -388,7 +388,7 @@
       "meta.parameter"
     ],
     "settings": {
-      "foreground": "#bfc0ff"
+      "foreground": "#a5e2faf5"
     }
   },
   {
@@ -439,7 +439,7 @@
       "meta.tag.sgml"
     ],
     "settings": {
-      "foreground": "#5ce6a6"
+      "foreground": "#3ec994"
     }
   },
   {
@@ -450,7 +450,7 @@
       "punctuation.definition.tag"
     ],
     "settings": {
-      "foreground": "#5ccfe680"
+      "foreground": "#3ec994bb"
     }
   },
   {

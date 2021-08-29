@@ -4,6 +4,15 @@ All notable changes to the "talos-dark" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.1.2]
+- Updated Function,Operator and Variable Tag Colors
+- Added Test Code Samples
+
+## [1.1.1]
+
+- Changed Debugging Bottom Bar Background Color
+- Changed Base Yellow Theme to Light Blue
+
+## [1.0.0]
 
 - Initial release
