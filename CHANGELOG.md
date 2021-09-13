@@ -4,7 +4,12 @@ All notable changes to the "talos-dark" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.1.2]
+## [1.3.0]
+
+- Updated Logo Yellow Color to Logo Green Color
+
+## [1.2.0]
+
 - Updated Function,Operator and Variable Tag Colors
 - Added Test Code Samples
 
