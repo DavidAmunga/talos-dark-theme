@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![vscode](https://img.shields.io/badge/VS%20Code-Theme-success?style=for-the-badge&logo=microsoft&labelColor=1F2937&color=FAC124)](https://marketplace.visualstudio.com/items?itemName=damunga.talos-dark)
+[![vscode](https://img.shields.io/badge/VS%20Code-Theme-success?style=for-the-badge&logo=microsoft&labelColor=1F2937&color=ADE959)](https://marketplace.visualstudio.com/items?itemName=damunga.talos-dark)
 
 </div>
 
