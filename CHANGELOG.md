@@ -4,6 +4,10 @@ All notable changes to the "talos-dark" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.2]
+
+- Updated Changlog
+
 ## [1.3.1]
 
 - Updated Theme Description
