@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.3.0]
 
+- Updated Theme Description
+
+## [1.3.0]
+
 - Updated Logo Yellow Color to Logo Green Color
 
 ## [1.2.0]

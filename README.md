@@ -2,7 +2,14 @@
 <img src="assets/logo.png" width="128"/>
 </p>
 
-<h1 align="center">Talos Dark Theme</h1>
+<h2 align="center">Talos Dark Theme</h2>
+
+<h4 align="center">A Cool Green Dark VSCode Theme</h4>
+&nbsp;
+
+---
+
+&nbsp;
 
 <div align="center">
 
